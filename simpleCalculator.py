@@ -2,6 +2,8 @@ from tkinter import *
 from tkinter import font
 import math
 
+# ** SIMPLE CALCULATOR **
+
 root = Tk()
 # Setting the title of the window
 root.title("Simple Calculator")
